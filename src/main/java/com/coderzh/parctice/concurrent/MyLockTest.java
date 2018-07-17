@@ -1,4 +1,4 @@
-package com.coderzh.parctice.Concurrent;
+package com.coderzh.parctice.concurrent;
 
 /**
  * Created by zhangwenbin on 2018/5/29.

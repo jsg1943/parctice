@@ -1,4 +1,4 @@
-package com.coderzh.parctice.Concurrent;
+package com.coderzh.parctice.concurrent;
 
 /**
  * 交替打印奇数和偶数

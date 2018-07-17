@@ -1,4 +1,4 @@
-package com.coderzh.parctice.Concurrent;
+package com.coderzh.parctice.concurrent;
 
 import java.util.Random;
 
